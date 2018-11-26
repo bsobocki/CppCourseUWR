@@ -162,7 +162,7 @@ std::string toONP(std::string infix) {
 }
 
 int main() {
-    //przyklady infik => ONP
+    //przyklady infix => ONP
     std::cout << toONP("332+4*2/(1-5)^7") << std::endl;
     std::cout << toONP("332-42-5*5") << std::endl;
     std::cout << toONP("sin(3)+4*2*(1 - cos(4 + 3))/(1-5)^7") << std::endl;
