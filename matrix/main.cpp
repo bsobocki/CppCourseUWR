@@ -33,7 +33,7 @@ int main() {
     }
     end = std::chrono::high_resolution_clock::now();
     seconds = end - start;
-    std::cout<<"czas dla 10x10 : "<<seconds.count()/10000<<std::endl;
+    std::cout<<"time for 10x10 : "<<seconds.count()/10000<<std::endl;
 
     //100x100
     start = std::chrono::high_resolution_clock::now();
@@ -42,14 +42,14 @@ int main() {
     }
     end = std::chrono::high_resolution_clock::now();
     seconds = end - start;
-    std::cout<<"czas dla 100x100 : "<<seconds.count()/1000<<std::endl;
+    std::cout<<"time for 100x100 : "<<seconds.count()/1000<<std::endl;
 
     //1000x1000
     start = std::chrono::high_resolution_clock::now();
     Matrix::mult(c, c);
     end = std::chrono::high_resolution_clock::now();
     seconds = end - start;
-    std::cout<<"czas dla 1000x1000 : "<<seconds.count()<<std::endl;
+    std::cout<<"time for 1000x1000 : "<<seconds.count()<<std::endl;
 
     return 0;
 }
