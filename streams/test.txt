@@ -1,5 +1,5 @@
-Wojtek to Wojtas i nic tego nie zmieni
-to test 1
-3 linia wiersza
-testuje czwarta linie wiersza
-po tej linii juz nie ma nic
+this is the first line
+the second line
+the 3rd line of the test
+I'm testing the 4th line of this text
+after this line there is nothing else
