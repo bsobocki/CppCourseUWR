@@ -1,4 +1,4 @@
-#Inteligentne wskaźniki
+# Inteligentne wskaźniki
 
 Zdefiniuj klasę opakowującą plik tekstowy `line_reader`.
 
