@@ -3,7 +3,7 @@
 
 int main() {
 
-    //test of multiplication
+    //test of the multiplication
 
     Matrix A(3);
     Matrix B(3);
@@ -20,7 +20,7 @@ int main() {
 
     Matrix a(10), b(100), c(1000), d(10000);
 
-    //test of time
+    //test of the time
 
     std::chrono::time_point<std::chrono::high_resolution_clock> start, end;
 
