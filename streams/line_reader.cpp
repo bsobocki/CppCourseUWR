@@ -27,5 +27,5 @@ bool line_reader::getGood () {
 
 void line_reader::close(){
     istr.close();
-    std::cout<<"line reader zostal zamkniety"<<std::endl;
+    std::cout<<"line reader has been closed."<<std::endl;
 }
