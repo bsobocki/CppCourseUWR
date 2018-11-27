@@ -46,4 +46,4 @@ public:
 };
 
 
-#endif //STRUMIENIE_LINE_READER_H
+#endif //STREAMS_LINE_READER_H
