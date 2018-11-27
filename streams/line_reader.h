@@ -6,8 +6,8 @@
 #include <fstream>
 #include <exception>
 
-#ifndef STRUMIENIE_LINE_READER_H
-#define STRUMIENIE_LINE_READER_H
+#ifndef STREAMS_LINE_READER_H
+#define STREAMS_LINE_READER_H
 
 
 class EOFException : public std::exception {
