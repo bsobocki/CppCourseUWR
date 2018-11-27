@@ -4,11 +4,6 @@
 
 #include "line_reader.h"
 
-
-line_reader::~line_reader() {
-    //close();
-}
-
 void line_reader::reload(const std::string & src) {
     istr.open(src, std::ios::in);
     good = istr.good();
