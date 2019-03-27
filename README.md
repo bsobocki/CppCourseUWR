@@ -1,5 +1,5 @@
 # CppCourseUWR
-C++ language course : studies at the Wroclaw Univeristy
+C++ language course (Basic & C++17 and STL):  studies at the Wroclaw Univeristy
 
 ## The course includes:
 - handling errors and exceptions
