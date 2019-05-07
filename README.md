@@ -2,6 +2,10 @@
 C++ language course (Basic & C++17 and STL):  studies at the Wroclaw Univeristy
 
 ## The course includes:
+### Basic :
+- basic knowledge
+- object-oriented programming
+### C++17 & STL :
 - handling errors and exceptions
 - smart pointers
 - clock and timers
